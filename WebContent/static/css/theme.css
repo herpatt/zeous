@@ -1006,5 +1006,36 @@ p, a, li {
 .social_googleplus {background: url(../images/googleplus.png) no-repeat;}
 .social_twitter {background: url(../images/twitter.png) no-repeat;}
 
+/*Thumbnails*/
 
+.margin-bottom-30 {
+    margin-bottom: 30px;
+}
+
+.team .thumbnail-style {
+    padding: 12px;
+}
+    
+.team .thumbnail-style h3 {
+    margin-bottom: 10px;
+}    
+    
+.thumbnail-style h3 {
+    margin: 5px 0 0 0;
+}    
+  
+.thumbnails p {
+	text-align : justify;
+}
+
+    
+.margin15 {
+	margin-left: 15%;
+}    
+    
+    
+    
+    
+    
+    
     
